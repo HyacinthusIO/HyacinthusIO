@@ -27,3 +27,16 @@
     <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExejM3ejdkZGY4OWkzMGJueXB3em45bWl0N2JwMXQ4YmZzcTNhZmdrciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/tz9d92qv2ICmzkblcI/giphy.gif" width="50" alt="Right Hyacinth"/>
   </h1>
 </div>
+
+---
+### 🙋‍♂️About me:
+I'm an ordinary guy who just likes programming/coding.<br>
+I'm currently a college student in my final year, after which I will be looking a job to start my career.<br> 
+I want to become a great specialist in the technical IT field.<br>
+
+✨**What I want**✨:
+- 💼 Gain experience by working on an IT project's.
+- 🤝 Meet great people who will share their professional experience.
+- 😎 Become the ‘cool’ guy about it.
+- And, of course, eat well 💲💲💲.
+
