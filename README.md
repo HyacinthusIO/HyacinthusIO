@@ -20,6 +20,12 @@
   </a>
 </div>
 
+<div id="social_id" align="center">
+  <a href="https://app.hackthebox.com/home">
+  <img src="https://img.shields.io/badge/HTB%20Labs-9FEF00?logo=hackthebox&logoColor=white&style=for-the-badge" alt="HTB Labs"/> <br> HyacinthusIO #1985755
+  </a>
+</div>
+
 <div id="username" align="center">
   <h1>
     <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGM5azIxZXV3cm96bG5uNnY0dTlqYjhxdmwxdjZ4amptczJvazZuciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/uw0dnRGBBVQUwewpam/giphy.gif" width="50" alt="Left Hyacinth"/>
