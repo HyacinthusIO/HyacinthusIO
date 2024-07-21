@@ -21,7 +21,7 @@
 </div>
 
 <div id="social_id" align="center">
-  <a href="https://app.hackthebox.com/home">
+  <a href="https://app.hackthebox.com">
   <img src="https://img.shields.io/badge/HTB%20Labs-9FEF00?logo=hackthebox&logoColor=white&style=for-the-badge" alt="HTB Labs"/> <br> HyacinthusIO #1985755
   </a>
 </div>
