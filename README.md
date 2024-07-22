@@ -50,9 +50,11 @@ I want to become a great specialist in the technical IT field.<br>
 ### ℹProgramming languages:
 <div id="programming_languages_icons">
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg" alt="Python" width=50 />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/powershell/powershell-original.svg" alt="PowerShell" width=50 />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/bash/bash-original.svg" alt="Bash" width=50 />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/visualbasic/visualbasic-original.svg" alt="VBA" width=50 />
+  <div id="script_lang">
+    <img src="https://img.icons8.com/?size=100&id=FwaVI1qCE7hQ&format=png&color=000000" alt="PowerShell" width=50 />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/bash/bash-original.svg" alt="Bash" width=50 />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/visualbasic/visualbasic-original.svg" alt="VBA" width=50 />
+  </div>
 </div>
 
 ---
@@ -65,16 +67,31 @@ I want to become a great specialist in the technical IT field.<br>
 ---
 ### 🧰Utils:
 <div id="utils_icons">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vim/vim-original.svg" alt="Vim" width=50 />
+  <div id="editors">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vim/vim-original.svg" alt="Vim" width=50 />
+    <img src="https://img.icons8.com/?size=100&id=1aLOSMCcgWFr&format=png&color=000000" alt="PowerShell ISE" width=50 />
+  </div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/sqlite/sqlite-original-wordmark.svg" alt="SQLite" width=60 />
   <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" width=50 />
   <img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" width=50 />
+  <div id="microsoft_office">
+    <img src="https://img.icons8.com/?size=100&id=121160&format=png&color=000000" alt="Access" width=50 />
+    <img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" alt="Excel" width=50 />
+    <img src="https://img.icons8.com/?size=100&id=pGHcje298xSl&format=png&color=000000" alt="Word" width=50 />
+    <img src="https://img.icons8.com/?size=100&id=7lJtplrxEIbD&format=png&color=000000" alt="Project" width=50 />
+  </div>
+  <div id="some_useful">
+    <img src="https://img.icons8.com/?size=100&id=q53th37bGbV0&format=png&color=000000" alt="Obsidian" width=50 />
+  </div>
 </div>
 
 ---
 ### 〰️Other:
 <div id="other_icons">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" width=50 />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/linux/linux-original.svg" alt="Linux" width=50 />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/windows8/windows8-original.svg" alt="Windows10" width=50 />
+  <div id="os">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" width=50 />
+    <img src="https://img.icons8.com/?size=100&id=101665&format=png&color=000000" alt="Kali Linux" width=50 />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/linux/linux-original.svg" alt="Linux" width=50 />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/windows8/windows8-original.svg" alt="Windows10" width=50 />
+  </div>
 </div>
