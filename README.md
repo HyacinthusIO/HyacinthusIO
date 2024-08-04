@@ -83,6 +83,7 @@ I want to become a great specialist in the technical IT field.<br>
   </div>
   <div id="some_useful">
     <img src="https://img.icons8.com/?size=100&id=q53th37bGbV0&format=png&color=000000" alt="Obsidian" width=50 />
+    <img src="https://img.icons8.com/?size=100&id=13677&format=png&color=000000" alt="Adobe Photoshop" width=50 />
   </div>
 </div>
 
